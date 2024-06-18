@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: teal;
+}
+.caja1{
+    margin: 20px;
+    background-color: bisque;
+}
+.caja2{
+    margin: 20px;
+    background-color: rgb(173, 173, 235);
+}
+.caja3{
+    margin: 20px;
+    background-color: rgb(187, 113, 113);
+}
+p{
+    margin: 5px;
+    padding: 10px;
+    text-align: justify;
+}
